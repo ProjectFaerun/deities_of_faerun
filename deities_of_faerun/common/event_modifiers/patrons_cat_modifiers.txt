@@ -1,0 +1,8 @@
+#CAT
+
+patron_cat = {
+	icon = 43
+	general_opinion = -5
+	church_opinion = -10
+	intrigue = 3
+}
